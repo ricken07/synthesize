@@ -82,24 +82,24 @@ public final class MyFrame extends javax.swing.JFrame {
             }
         });
 
-        lab1.setForeground(new java.awt.Color(0, 0, 255));
+        lab1.setForeground(new java.awt.Color(102, 102, 102));
         lab1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lab1.setText("Developed by:");
 
         lab2.setFont(new java.awt.Font("Tahoma", 3, 12)); // NOI18N
-        lab2.setForeground(new java.awt.Color(0, 0, 255));
+        lab2.setForeground(new java.awt.Color(0, 0, 0));
         lab2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lab2.setText("Ricken Brice");
 
         jLabel2.setForeground(new java.awt.Color(0, 0, 204));
         jLabel2.setText("copyright@RCKSOFT 2015");
 
-        lab3.setForeground(new java.awt.Color(0, 0, 255));
+        lab3.setForeground(new java.awt.Color(0, 0, 0));
         lab3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lab3.setText("Version");
 
         lab4.setFont(new java.awt.Font("Tahoma", 3, 13)); // NOI18N
-        lab4.setForeground(new java.awt.Color(0, 0, 255));
+        lab4.setForeground(new java.awt.Color(0, 0, 0));
         lab4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lab4.setText("L.P 1.0");
 
